@@ -7,55 +7,55 @@ This project is a comprehensive Global Super Store Sales Data Analysis Dashboard
 📌 Key Dashboard Features
 👉 Sales Performance Analytics:
 
-Total Sales Tracking: $12.64M in overall sales with monthly target monitoring
+Total Sales Tracking: $12.64M in overall sales with monthly target monitoring,
 
-Profit Analysis: $1.47M total profit with detailed profit margin analysis
+Profit Analysis: $1.47M total profit with detailed profit margin analysis,
 
-Customer Metrics: 51.29K unique customers and order IDs tracked
+Customer Metrics: 51.29K unique customers and order IDs tracked,
 
-Quarterly & Yearly Sales Trends: Visual breakdown showing seasonal patterns
+Quarterly & Yearly Sales Trends: Visual breakdown showing seasonal patterns.
 
 👉 Segment-Based Performance Analysis
-Consumer Segment Leadership: $650.65K in sales representing the largest market segment
-Corporate Segment: $382.47K contributing significantly to overall revenue
-Home Office Segment: $230.99K showing specialized market potential
-Total Revenue: $1.26M across all three segments combined
+Consumer Segment Leadership: $650.65K in sales representing the largest market segment,
+Corporate Segment: $382.47K contributing significantly to overall revenue,
+Home Office Segment: $230.99K showing specialized market potential,
+Total Revenue: $1.26M across all three segments combined.
 
 👉 Geographic Performance Insights:
-Regional Sales Distribution: Interactive world map showing sales concentration by country
-Country-wise Performance: Detailed analysis across North America, Europe, Asia-Pacific regions
-Sales and Profit by Region: Comparative analysis showing regional strengths and opportunities
+Regional Sales Distribution: Interactive world map showing sales concentration by country,
+Country-wise Performance: Detailed analysis across North America, Europe, Asia-Pacific regions,
+Sales and Profit by Region: Comparative analysis showing regional strengths and opportunities.
 
 👉 Product Category Analysis
-Technology Dominance: 31.27K customers (60.97%) making it the largest category
-Office Supplies: 9.88K customers (19.26%) representing steady demand
-Furniture: 10.14K customers (19.77%) showing balanced market presence
-Category Performance: Furniture ($98.60 avg cost), Office Supplies ($26.86 avg cost), Technology ($103.16 avg cost)
+Technology Dominance: 31.27K customers (60.97%) making it the largest category,
+Office Supplies: 9.88K customers (19.26%) representing steady demand,
+Furniture: 10.14K customers (19.77%) showing balanced market presence,
+Category Performance: Furniture ($98.60 avg cost), Office Supplies ($26.86 avg cost), Technology ($103.16 avg cost).
 
 👉 Segment Performance Visualization
-Dual-axis Analysis: Sales and profit trends across Consumer, Corporate, and Home Office segments
-Profit Margins by Segment: Consumer segment showing $0.7M profit, Corporate $0.4M, Home Office $0.3M
-Performance Trajectory: Clear visualization of segment-wise growth patterns
+Dual-axis Analysis: Sales and profit trends across Consumer, Corporate, and Home Office segments,
+Profit Margins by Segment: Consumer segment showing $0.7M profit, Corporate $0.4M, Home Office $0.3M,
+Performance Trajectory: Clear visualization of segment-wise growth patterns.
 
 👉 Regional Sales Distribution
-Geographic Spread: Sales performance across Central, East, South, and West regions
-Volume Analysis: Regional comparison showing market penetration and growth opportunities
-Strategic Positioning: Data-driven insights for regional expansion and resource allocation
+Geographic Spread: Sales performance across Central, East, South, and West regions,
+Volume Analysis: Regional comparison showing market penetration and growth opportunities,
+Strategic Positioning: Data-driven insights for regional expansion and resource allocation.
 
 👉 Time-based Analytics
-Monthly Sales Trends: Line charts showing seasonal variations and growth patterns
-Weekend vs Weekday Performance: 88.92% weekday sales vs 11.08% weekend sales
-Year-over-Year Comparison: Multi-year trend analysis from 2011-2014
+Monthly Sales Trends: Line charts showing seasonal variations and growth patterns,
+Weekend vs Weekday Performance: 88.92% weekday sales vs 11.08% weekend sales,
+Year-over-Year Comparison: Multi-year trend analysis from 2011-2014.
 
 👉 Customer Demographics
-Age Category Analysis: Customer distribution across different age groups
-Gender-based Insights: User behavior patterns and preferences
-Customer ID Tracking: Detailed customer journey analysis
+Age Category Analysis: Customer distribution across different age groups,
+Gender-based Insights: User behavior patterns and preferences,
+Customer ID Tracking: Detailed customer journey analysis.
 
 👉 Operational Metrics
-Delivery Performance: On-time vs delayed delivery analysis (87.84% vs 12.16%)
-Order Processing: Real-time order tracking and fulfillment metrics
-Profit Gauge Visualization: Quick performance indicators for management
+Delivery Performance: On-time vs delayed delivery analysis (87.84% vs 12.16%),
+Order Processing: Real-time order tracking and fulfillment metrics,
+Profit Gauge Visualization: Quick performance indicators for management.
 
 ---
 
