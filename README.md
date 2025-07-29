@@ -1,65 +1,65 @@
-#  Global Super Store Data Analysis Dashboard | Power BI
+**#  Global Super Store Data Analysis Dashboard | Power BI
 
 This project is a comprehensive Global Super Store Sales Data Analysis Dashboard built using Power BI, aimed at transforming raw retail sales data into actionable business insights. The dataset provides detailed transaction-level information across multiple regions, product categories, and time periods, offering a complete view of global retail performance.
 ---
 📌 Key Dashboard Features
-Sales Performance Analytics
+👉 Sales Performance Analytics
 Total Sales Tracking: $12.64M in overall sales with monthly target monitoring
 Profit Analysis: $1.47M total profit with detailed profit margin analysis
 Customer Metrics: 51.29K unique customers and order IDs tracked
 Quarterly & Yearly Sales Trends: Visual breakdown showing seasonal patterns
 
-Segment-Based Performance Analysis
+👉 Segment-Based Performance Analysis
 Consumer Segment Leadership: $650.65K in sales representing the largest market segment
 Corporate Segment: $382.47K contributing significantly to overall revenue
 Home Office Segment: $230.99K showing specialized market potential
 Total Revenue: $1.26M across all three segments combined
 
-Geographic Performance Insights
+👉 Geographic Performance Insights
 Regional Sales Distribution: Interactive world map showing sales concentration by country
 Country-wise Performance: Detailed analysis across North America, Europe, Asia-Pacific regions
 Sales and Profit by Region: Comparative analysis showing regional strengths and opportunities
 
-Product Category Analysis
+👉 Product Category Analysis
 Technology Dominance: 31.27K customers (60.97%) making it the largest category
 Office Supplies: 9.88K customers (19.26%) representing steady demand
 Furniture: 10.14K customers (19.77%) showing balanced market presence
 Category Performance: Furniture ($98.60 avg cost), Office Supplies ($26.86 avg cost), Technology ($103.16 avg cost)
 
-Segment Performance Visualization
+👉 Segment Performance Visualization
 Dual-axis Analysis: Sales and profit trends across Consumer, Corporate, and Home Office segments
 Profit Margins by Segment: Consumer segment showing $0.7M profit, Corporate $0.4M, Home Office $0.3M
 Performance Trajectory: Clear visualization of segment-wise growth patterns
 
-Regional Sales Distribution
+👉 Regional Sales Distribution
 Geographic Spread: Sales performance across Central, East, South, and West regions
 Volume Analysis: Regional comparison showing market penetration and growth opportunities
 Strategic Positioning: Data-driven insights for regional expansion and resource allocation
 
-Time-based Analytics
+👉 Time-based Analytics
 Monthly Sales Trends: Line charts showing seasonal variations and growth patterns
 Weekend vs Weekday Performance: 88.92% weekday sales vs 11.08% weekend sales
 Year-over-Year Comparison: Multi-year trend analysis from 2011-2014
 
-Customer Demographics
+👉 Customer Demographics
 Age Category Analysis: Customer distribution across different age groups
 Gender-based Insights: User behavior patterns and preferences
 Customer ID Tracking: Detailed customer journey analysis
 
-Operational Metrics
+👉 Operational Metrics
 Delivery Performance: On-time vs delayed delivery analysis (87.84% vs 12.16%)
 Order Processing: Real-time order tracking and fulfillment metrics
 Profit Gauge Visualization: Quick performance indicators for management
 ---
 🛠 Tools & Skills Used
-Power BI Desktop (.pbix) - Primary visualization platform
-Excel for initial data cleaning and preparation
-DAX for calculated measures, KPIs, and advanced analytics
-Power Query for data transformation and modeling
-Geographic Mapping for spatial analysis
-Interactive Filtering with dynamic slicers
-Multi-axis Charting for complex data relationships
-Donut Charts for categorical distribution analysis
+-Power BI Desktop (.pbix) - Primary visualization platform
+-Excel for initial data cleaning and preparation
+-DAX for calculated measures, KPIs, and advanced analytics
+-Power Query for data transformation and modeling
+-Geographic Mapping for spatial analysis
+-Interactive Filtering with dynamic slicers
+-Multi-axis Charting for complex data relationships
+-Donut Charts for categorical distribution analysis
 ---
 📁 Dataset Structure
 Source: Global retail superstore transactional data
@@ -121,3 +121,4 @@ This comprehensive dashboard enables data-driven decision making across sales st
 <img width="775" height="461" alt="4" src="https://github.com/user-attachments/assets/55f4a682-f61b-422a-a124-e9bf25157a52" />
 <img width="836" height="334" alt="5" src="https://github.com/user-attachments/assets/838cdaaa-7c98-4815-a022-5e72ae5e6eeb" />
 <img width="644" height="262" alt="6" src="https://github.com/user-attachments/assets/b4553dce-1bb1-4b2c-9efb-8551b9a361a3" />
+**
