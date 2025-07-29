@@ -1,7 +1,9 @@
-**#  Global Super Store Data Analysis Dashboard | Power BI
+# Global Super Store Data Analysis Dashboard | Power BI
 
 This project is a comprehensive Global Super Store Sales Data Analysis Dashboard built using Power BI, aimed at transforming raw retail sales data into actionable business insights. The dataset provides detailed transaction-level information across multiple regions, product categories, and time periods, offering a complete view of global retail performance.
+
 ---
+
 📌 Key Dashboard Features
 👉 Sales Performance Analytics
 Total Sales Tracking: $12.64M in overall sales with monthly target monitoring
@@ -50,7 +52,9 @@ Customer ID Tracking: Detailed customer journey analysis
 Delivery Performance: On-time vs delayed delivery analysis (87.84% vs 12.16%)
 Order Processing: Real-time order tracking and fulfillment metrics
 Profit Gauge Visualization: Quick performance indicators for management
+
 ---
+
 🛠 Tools & Skills Used
 -Power BI Desktop (.pbix) - Primary visualization platform
 -Excel for initial data cleaning and preparation
@@ -60,7 +64,9 @@ Profit Gauge Visualization: Quick performance indicators for management
 -Interactive Filtering with dynamic slicers
 -Multi-axis Charting for complex data relationships
 -Donut Charts for categorical distribution analysis
+
 ---
+
 📁 Dataset Structure
 Source: Global retail superstore transactional data
 Key Fields:
@@ -71,7 +77,9 @@ Customer details (Customer ID, Segment, Demographics)
 Time dimensions (Order Date, Ship Date, Delivery Status)
 Financial metrics (Cost, Price, Profit Margin)
 Segment classification (Consumer, Corporate, Home Office)
+
 ---
+
 🔍 Key Business Insights
 Sales Performance
 🔺 Strong Growth Trajectory: Sales increased from $2.26M (2011) to $4.30M (2014)
@@ -111,10 +119,14 @@ Strategic Opportunities
 🔄 Cross-segment Growth: Potential to expand Corporate and Home Office segments
 🌐 Regional Expansion: Opportunities in underperforming geographic areas
 📊 Category Optimization: Technology segment strength can support other categories
+
 💼 Customer Acquisition: Focus on high-value segments for revenue growth
+
 ---
 This comprehensive dashboard enables data-driven decision making across sales strategy, inventory management, regional expansion, customer relationship management, and segment-specific targeting, providing stakeholders with real-time insights into global retail performance across all business dimensions.
+
 ---
+
 <img width="765" height="488" alt="1" src="https://github.com/user-attachments/assets/7c333e51-dd0c-4cf9-a264-845d34240bf9" />
 <img width="777" height="469" alt="2" src="https://github.com/user-attachments/assets/258bb7c3-7a38-42f1-8db0-be5038b6838a" />
 <img width="778" height="464" alt="3" src="https://github.com/user-attachments/assets/453fe4b0-39a8-42c2-bed6-4f6d8c29bf37" />
