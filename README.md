@@ -5,10 +5,14 @@ This project is a comprehensive Global Super Store Sales Data Analysis Dashboard
 ---
 
 📌 Key Dashboard Features
-👉 Sales Performance Analytics
+👉 Sales Performance Analytics:
+
 Total Sales Tracking: $12.64M in overall sales with monthly target monitoring
+
 Profit Analysis: $1.47M total profit with detailed profit margin analysis
+
 Customer Metrics: 51.29K unique customers and order IDs tracked
+
 Quarterly & Yearly Sales Trends: Visual breakdown showing seasonal patterns
 
 👉 Segment-Based Performance Analysis
@@ -17,7 +21,7 @@ Corporate Segment: $382.47K contributing significantly to overall revenue
 Home Office Segment: $230.99K showing specialized market potential
 Total Revenue: $1.26M across all three segments combined
 
-👉 Geographic Performance Insights
+👉 Geographic Performance Insights:
 Regional Sales Distribution: Interactive world map showing sales concentration by country
 Country-wise Performance: Detailed analysis across North America, Europe, Asia-Pacific regions
 Sales and Profit by Region: Comparative analysis showing regional strengths and opportunities
